@@ -22,7 +22,6 @@ int main(int argc, char** argv) {
 	a.input();
 	
 	return 0;
-	
 }
 
 void digna::input(){
@@ -57,7 +56,6 @@ void digna::input(){
 			lines();
 		}
 	}
-	
 }
 
 void digna::process(){
